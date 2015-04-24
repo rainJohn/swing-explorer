@@ -1,0 +1,1 @@
+Swing Explorer is a tool for Swing application developers which is intended for visual exploring of a Swing-based application internals. This site is used for storing sources. The main Swing Explorer page is located here: http://www.swingexplorer.com
